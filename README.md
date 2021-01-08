@@ -1,11 +1,11 @@
 # syc
 
-Contains 29,553 lexemes in Classical Syriac and their inflectional forms annotated according to Sylak-Glassman (2016) 
+29,553 lexemes in Classical Syriac and their inflectional forms annotated according to Sylak-Glassman (2016) 
 
 ## Version Control
 
-syc_2021: dataset for UniMorph shared task 2021
-syc: dataset for UniMorph shared task 2019
++ syc_2021: dataset for UniMorph shared task 2021
++ syc: dataset for UniMorph shared task 2019
 
 ## License 
 
@@ -25,7 +25,7 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 ## Author
 
-Charbel El-Khaissi, Australian National University
+Charbel El-Khaissi (Australian National University)
 
 ## Acknowledgements
 
